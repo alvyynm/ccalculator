@@ -1,3 +1,13 @@
+/*******************************************************************************
+* Author: Alvin Wanjala --> https://alvinwanjala.com
+*
+* Program: Basic Terminal Calculator program in C
+*
+* Description: An example calculator in C including the basics of creating a library by 
+* splitting code across files
+*
+*******************************************************************************/
+
 #include <stdio.h>
 #include "calculatorlib.h"
 
