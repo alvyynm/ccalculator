@@ -6,4 +6,4 @@ int subtract(int a, int b);
 int divide(int a, int b);
 int mod(int a, int b);
 int multiply(int a, int b);
-#endif
+#endif /*HEADER_NAME_H*/
