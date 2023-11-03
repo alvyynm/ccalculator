@@ -2,9 +2,7 @@
 #include "calculatorlib.h"
 
 int main() {
-    int result;
-    int num1;
-    int num2;
+    int result, num1, num2;
     printf("Enter first number: ");
     scanf("%d", &num1);
     printf("Enter second number: ");
